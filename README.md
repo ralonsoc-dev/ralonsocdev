@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kobosildev" alt="kobosildev" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **GS Desarrollo de Aplicaciones Multiplataforma**
+- 🌱 Actualmente estoy estudiando **GS Desarrollo de Aplicaciones Multiplataforma**
 
 - 📫 Como llegar a mi **raul.alonso.dev@gmail.com**
 
