@@ -1,11 +1,8 @@
 <h1 align="center">Hola 👋, soy Raúl Alonso</h1>
-<h3 align="center">Apasionado por la programación y con muchas ganas de seguir aprendiendo</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kobosildev" alt="kobosildev" /></a> </p>
 
 - 🌱 Actualmente estoy estudiando **GS Desarrollo de Aplicaciones Multiplataforma**
 
-- 📫 Como llegar a mi **raul.alonso.dev@gmail.com**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
