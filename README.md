@@ -14,6 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kobosildev&show_icons=true&locale=en&layout=compact" alt="kobosildev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kobosildev&show_icons=true&locale=en" alt="kobosildev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kobosildev&" alt="kobosildev" /></p>
